@@ -1,0 +1,9 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[1] Config.pm:331> INFO - Logfile is 'FAAI_2026.blg'
+[288] biber-darwin:342> INFO - === Wed Aug 19, 2026, 06:27:28
+[339] Biber.pm:421> INFO - Reading 'FAAI_2026.bcf'
+[627] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[664] bbl.pm:676> INFO - Writing 'FAAI_2026.bbl' with encoding 'UTF-8'
+[665] bbl.pm:779> INFO - Output to FAAI_2026.bbl
+[666] Biber.pm:132> WARN - The file 'FAAI_2026.bcf' does not contain any citations!
+[666] Biber.pm:134> INFO - WARNINGS: 1
